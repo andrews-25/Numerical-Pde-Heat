@@ -4,9 +4,9 @@ Undergraduate capstone project applying numerical and machine learning methods t
 
 This repository contains four separate folders:
 
-- **crank-nicolson:** Contains two Python solvers for the heat equation — an original 1D numerical solver created for the capstone project and a 2D solver developed later for learning purposes.
+- **crank-nicolson:** Contains two Python solvers for the heat equation; an original 1D numerical solver created for the capstone project and a 2D solver developed later for learning purposes.
 
-- **pinns:** Includes two Python implementations solving the 1D heat equation using TensorFlow and PyTorch.
+- **pinns:** Includes two Python implementations solving the 1D heat equation using TensorFlow and PyTorch, configured to use GPU or CPU
 
 - **report:** Contains all LaTeX source files for the report, as well as the compiled PDF. The report is approximately 20 pages and provides a detailed academic perspective on the project.
 
